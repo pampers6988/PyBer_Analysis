@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Overview of the analysis: Analyze data provided by PyBer from 2019 to provide insights to improve access to ride-sharing services and determine affordability.
+Overview of the analysis: Analyze 2019 ride-share data provided by PyBer and provide insights to improve access to ride-sharing services and determine affordability.
 
 Results:
 
